@@ -1,2 +1,3 @@
 # Database-AI-communication
-add later
+Innitially forked from https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
+
